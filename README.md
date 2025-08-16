@@ -1,1 +1,1 @@
-# Inventory-sorting-system-University-Group-Project-
+# This is the group project from the university. 
