@@ -1,1 +1,2 @@
 # This is the group project from the university. 
+In this project, we have used Django as the backend system management, such as managing items, tracking the time reports of the availability and creating a MySQL database to store the information of renters' details, including the reminder notification that the item is overdue to return. With the simple UI interface to easily understand and print the back-end data sheet
